@@ -1,0 +1,19 @@
+{
+  "name": "crt-num1",
+  "version": "1.0.0",
+  "description": "This is my first projetc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crt0510/Crt-Num1.git"
+  },
+  "author": "Crt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crt0510/Crt-Num1/issues"
+  },
+  "homepage": "https://github.com/Crt0510/Crt-Num1#readme"
+}
