@@ -1,3 +1,3 @@
-var hola = "Hola mundo "
-let num = 4
+var hola = "Hello world; "
+let num = 6
 console.log(hola + num)
